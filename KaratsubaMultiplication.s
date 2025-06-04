@@ -1,8 +1,8 @@
 //////////////////////////
 //                      //
 //  UCSD ECE 30 Project	//
-// 	   Spring 2025		//
-//	   Gordon Yang		//
+// 	Spring 2025	//
+//	Gordon Yang	//
 //                      //
 //////////////////////////
 
