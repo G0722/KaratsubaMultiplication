@@ -1,0 +1,4 @@
+.long
+array_C: 0, 1, 2, 3, 3, 2, -1 
+array_D: 2, 2, -1 
+array_R: 0
